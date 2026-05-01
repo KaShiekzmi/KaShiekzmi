@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashiekzmi&label=Profile%20views&color=0e75b6&style=flat" alt="kashiekzmi" /> </p>
 
 ## About Me
-- 🎓 **BS Software Engineering** student at COMSATS University Islamabad (CGPA: 3.76)
+- 🎓 **BS Software Engineering** student at COMSATS University Islamabad (CGPA: 3.79)
 - 💼 **Software Engineer Intern** at Fauji Fertilizers Company Limited (Jun 2024 - Sep 2024)
 - 🚀 **MERN Stack Developer Intern** at Texinity Technologies (Jul 2023 - Aug 2023)
 - 🏆 **Top 3 Performer** with multiple Certificate of Merit awards (1st, 2nd, and 3rd positions)
